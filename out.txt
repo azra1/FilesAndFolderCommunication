@@ -1,0 +1,9 @@
+2018/06/21 11:16:54 (handwritten) AI.pdf
+2018/06/21 11:16:54 (handwritten) DCN.pdf
+2018/06/21 11:16:54 (handwritten) WE.pdf
+2018/06/21 11:16:54 (handwritten)compiler design.pdf
+2018/06/21 11:16:54 (handwritten)OS Unit1,2.pdf
+2018/06/21 11:16:54 (photocopy 1)8085.pdf
+2018/06/21 11:16:54 (photocopy 2)8086 mp.pdf
+2018/06/21 11:16:54 (techbits) AI (1 & 2 unit).pdf
+2018/06/21 11:16:54 Microprocessor (1 unit).pdf
